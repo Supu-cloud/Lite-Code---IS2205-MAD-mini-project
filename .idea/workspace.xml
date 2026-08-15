@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8aed9363-4454-4d78-9a31-3521429c77f8" name="Changes" comment="" />
+    <list default="true" id="8aed9363-4454-4d78-9a31-3521429c77f8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/texteditor/project/network/CompilerClient.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +39,21 @@
       </state>
     </system>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Supu-cloud"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Supu-cloud/Lite-Code---IS2205-MAD-mini-project.git",
+    "accountId": "d7b8d2e2-dd8c-4e48-ad34-5d0fcbeb8f65"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6,
   &quot;fromUser&quot;: false
@@ -56,8 +74,9 @@
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "feature-compiler",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/Litecode"
+    "last_opened_file_path": "E:/Litecode/app/src/main/java/com/texteditor/project"
   }
 }]]></component>
   <component name="RunManager">
