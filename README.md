@@ -43,4 +43,46 @@ Developed as a mini-project for **IS2205: Mobile Application Design and Developm
 *   `.lctxt`: LiteCode-specific rich-text format (JSON serialized) for preserving styles and colors.
 
 ---
+## Kotlin Compiler Setup
+
+After downloading and extracting the LiteCode project from GitHub, open the project in Android Studio.
+
+Before using the Kotlin compiler feature, ensure that the following are installed on the machine:
+
+- Java JDK 17 or higher
+- Python 3
+- Flask
+- Kotlin Command-Line Compiler
+
+**Verify Java:**
+```bash
+java -version
+```
+
+**Verify Python:**
+```bash
+python --version
+```
+
+**Install Flask:**
+```bash
+pip install flask
+```
+
+**Verify Kotlin:**
+```bash
+kotlinc -version
+```
+
+Make sure the Kotlin compiler's `bin` directory has been added to the system `PATH`.
+
+Next, open a terminal inside the project's `server` folder and run:
+
+```bash
+python server.py
+```
+
+Keep the Flask server running while using the Kotlin compiler feature in LiteCode.
+
+> **Note:** The Kotlin compiler does not need to be running continuously. It only needs to be installed correctly and accessible through the `kotlinc` command. The Flask server invokes the compiler when Kotlin code is submitted from the application.
 © 2026 LiteCode Team
